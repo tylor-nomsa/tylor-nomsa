@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation and AI
 - 🌱 I’m currently learning project management,power apps,power BI and power Automate
 - 💞️ I’m looking to collaborate on power apps and automation
-- 📫 How to reach me tylor.masilela@wits.ac.za
+- 📫 How to reach me taylormasilela@yahoo.com
 
 <!---
 tylor-nomsa/tylor-nomsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
